@@ -228,4 +228,4 @@ addel adheres to [Semantic Versioning](http://semver.org/).
 
 ## License
 
-addel is released under the [MIT license](https://github.com/legshooter/addel/blob/master/LICENSE).
+addel is released under the [MIT license](https://github.com/anaszaman/addel/blob/master/LICENSE).

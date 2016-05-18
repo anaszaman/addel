@@ -31,12 +31,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/legshooter/addel.git"
+    "url": "git+https://github.com/anaszaman/addel.git"
   },
-  "author": "legshooter",
+  "author": "anaszaman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/legshooter/addel/issues"
+    "url": "https://github.com/anaszaman/addel/issues"
   },
-  "homepage": "https://github.com/legshooter/addel#readme"
+  "homepage": "https://github.com/anaszaman/addel#readme"
 }

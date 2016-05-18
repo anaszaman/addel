@@ -1,7 +1,7 @@
 /*!
  * addel v1.3.2
- * https://github.com/legshooter/addel
- * Copyright 2017 legshooter
+ * https://github.com/anaszaman/addel
+ * Copyright 2017 anaszaman
  * Released under the MIT license
  */
 'use strict';

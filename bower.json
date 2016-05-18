@@ -1,8 +1,8 @@
 {
   "name": "addel",
-  "homepage": "https://github.com/legshooter/addel",
+  "homepage": "https://github.com/anaszaman/addel",
   "authors": [
-    "legshooter"
+    "anaszaman"
   ],
   "description": "addel is a simple and lightweight jQuery plugin for powering UIs that enable dynamic addition and deletion of HTML elements.",
   "main": "addel.jquery.js",
